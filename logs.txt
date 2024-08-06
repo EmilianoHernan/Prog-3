@@ -1,0 +1,831 @@
+Partida jugada el Tue Aug 06 14:46:11 ART 2024
+Iniciando combate...
+Bando elegido: TITANES
+Jugador: Kaido (Bando: TITANES)
+Enemigo: Zoro (Bando: RADIANTES)
+Kaido se encuentra con Zoro, comienza la batalla!
+------------------------------
+RONDA 1
+------------------------------
+Ataca Zoro
+Zoro utilizó el dado de 12 caras.
+------------------------------
+RONDA 2
+------------------------------
+Kaido ataca a Zoro
+Recuerda que tienes 100 de Stamina para consumir.
+Selecciona un dado para atacar:
+1- Dado 6 caras - 0 Stamina
+2- Dado 12 caras - 10 Stamina
+3- Dado 20 caras - 15 Stamina
+4- Dado 30 caras - Ataque Alto (quita mucha Stamina) - 50 Stamina
+------------------------------
+Kaido atacó a Zoro con un dado de 20 caras, costo de stamina: 15
+------------------------------
+RONDA 3
+------------------------------
+Ataca Zoro
+Zoro utilizó el dado de 12 caras.
+------------------------------
+RONDA 4
+------------------------------
+Kaido ataca a Zoro
+Recuerda que tienes 85 de Stamina para consumir.
+Selecciona un dado para atacar:
+1- Dado 6 caras - 0 Stamina
+2- Dado 12 caras - 10 Stamina
+3- Dado 20 caras - 15 Stamina
+4- Dado 30 caras - Ataque Alto (quita mucha Stamina) - 50 Stamina
+------------------------------
+Kaido atacó a Zoro con un dado de 20 caras, costo de stamina: 15
+------------------------------
+RONDA 5
+------------------------------
+Ataca Zoro
+Zoro utilizó el dado de 12 caras.
+------------------------------
+RONDA 6
+------------------------------
+Kaido ataca a Zoro
+Recuerda que tienes 70 de Stamina para consumir.
+Selecciona un dado para atacar:
+1- Dado 6 caras - 0 Stamina
+2- Dado 12 caras - 10 Stamina
+3- Dado 20 caras - 15 Stamina
+4- Dado 30 caras - Ataque Alto (quita mucha Stamina) - 50 Stamina
+------------------------------
+Kaido atacó a Zoro con un dado de 20 caras, costo de stamina: 15
+------------------------------
+RONDA 7
+------------------------------
+Ataca Zoro
+Zoro utilizó el dado de 30 caras.
+------------------------------
+RONDA 8
+------------------------------
+Kaido ataca a Zoro
+Recuerda que tienes 55 de Stamina para consumir.
+Selecciona un dado para atacar:
+1- Dado 6 caras - 0 Stamina
+2- Dado 12 caras - 10 Stamina
+3- Dado 20 caras - 15 Stamina
+4- Dado 30 caras - Ataque Alto (quita mucha Stamina) - 50 Stamina
+5- Dado 8 caras - Vida
+6- Dado 8 caras - Stamina
+------------------------------
+Kaido atacó a Zoro con un dado de 20 caras, costo de stamina: 15
+¡Kaido ha ganado!
+Contador de victorias del usuario: 1
+Jugador: Caudicus (Bando: TITANES)
+Enemigo: Chopper (Bando: RADIANTES)
+Caudicus se encuentra con Chopper, comienza la batalla!
+------------------------------
+RONDA 1
+------------------------------
+Caudicus ataca a Chopper
+Recuerda que tienes 100 de Stamina para consumir.
+Selecciona un dado para atacar:
+1- Dado 6 caras - 0 Stamina
+2- Dado 12 caras - 10 Stamina
+3- Dado 20 caras - 15 Stamina
+4- Dado 30 caras - Ataque Alto (quita mucha Stamina) - 50 Stamina
+------------------------------
+Caudicus atacó a Chopper con un dado de 20 caras, costo de stamina: 15
+------------------------------
+RONDA 2
+------------------------------
+Ataca Chopper
+Chopper utilizó el dado de 12 caras.
+------------------------------
+RONDA 3
+------------------------------
+Caudicus ataca a Chopper
+Recuerda que tienes 85 de Stamina para consumir.
+Selecciona un dado para atacar:
+1- Dado 6 caras - 0 Stamina
+2- Dado 12 caras - 10 Stamina
+3- Dado 20 caras - 15 Stamina
+4- Dado 30 caras - Ataque Alto (quita mucha Stamina) - 50 Stamina
+------------------------------
+Caudicus atacó a Chopper con un dado de 20 caras, costo de stamina: 15
+------------------------------
+RONDA 4
+------------------------------
+Ataca Chopper
+Chopper utilizó el dado de 20 caras.
+------------------------------
+RONDA 5
+------------------------------
+Caudicus ataca a Chopper
+Recuerda que tienes 70 de Stamina para consumir.
+Selecciona un dado para atacar:
+1- Dado 6 caras - 0 Stamina
+2- Dado 12 caras - 10 Stamina
+3- Dado 20 caras - 15 Stamina
+4- Dado 30 caras - Ataque Alto (quita mucha Stamina) - 50 Stamina
+------------------------------
+Caudicus atacó a Chopper con un dado de 20 caras, costo de stamina: 15
+------------------------------
+RONDA 6
+------------------------------
+Ataca Chopper
+Chopper utilizó el dado de 6 caras.
+------------------------------
+RONDA 7
+------------------------------
+Caudicus ataca a Chopper
+Recuerda que tienes 55 de Stamina para consumir.
+Selecciona un dado para atacar:
+1- Dado 6 caras - 0 Stamina
+2- Dado 12 caras - 10 Stamina
+3- Dado 20 caras - 15 Stamina
+4- Dado 30 caras - Ataque Alto (quita mucha Stamina) - 50 Stamina
+------------------------------
+Caudicus atacó a Chopper con un dado de 30 caras, costo de stamina: 50
+------------------------------
+RONDA 8
+------------------------------
+Ataca Chopper
+Chopper utilizó el dado de 20 caras.
+------------------------------
+RONDA 9
+------------------------------
+Caudicus ataca a Chopper
+Recuerda que tienes 5 de Stamina para consumir.
+Selecciona un dado para atacar:
+1- Dado 6 caras - 0 Stamina
+2- Dado 12 caras - 10 Stamina
+3- Dado 20 caras - 15 Stamina
+4- Dado 30 caras - Ataque Alto (quita mucha Stamina) - 50 Stamina
+5- Dado 8 caras - Vida
+6- Dado 8 caras - Stamina
+------------------------------
+Caudicus atacó a Chopper con un dado de 6 caras, costo de stamina: 0
+------------------------------
+RONDA 10
+------------------------------
+Ataca Chopper
+Chopper utilizó el dado de 20 caras.
+------------------------------
+RONDA 11
+------------------------------
+Caudicus ataca a Chopper
+Recuerda que tienes 5 de Stamina para consumir.
+Selecciona un dado para atacar:
+1- Dado 6 caras - 0 Stamina
+2- Dado 12 caras - 10 Stamina
+3- Dado 20 caras - 15 Stamina
+4- Dado 30 caras - Ataque Alto (quita mucha Stamina) - 50 Stamina
+5- Dado 8 caras - Vida
+6- Dado 8 caras - Stamina
+------------------------------
+Caudicus atacó a Chopper con un dado de 6 caras, costo de stamina: 0
+¡Caudicus ha ganado!
+Contador de victorias del usuario: 2
+¡Los Titanes han ganado el combate!
+------------------------------
+¡Te enfrentas a Ylluvatar en el combate final!
+¡Combate final entre ODIUM y Ylluvatar!
+------------------------------
+RONDA 1
+------------------------------
+Turno de ODIUM
+ODIUM ataca a Ylluvatar
+Recuerda que tienes 100 de Stamina para consumir.
+Selecciona un dado para atacar:
+1- Dado 6 caras - 0 Stamina
+2- Dado 12 caras - 10 Stamina
+3- Dado 20 caras - 15 Stamina
+4- Dado 30 caras - Ataque Alto (quita mucha Stamina) - 50 Stamina
+------------------------------
+ODIUM atacó a Ylluvatar con un dado de 20 caras, costo de stamina: 15
+------------------------------
+RONDA 2
+------------------------------
+Turno de Ylluvatar
+Ataca Ylluvatar
+Ylluvatar utilizó el dado de 30 caras.
+------------------------------
+RONDA 3
+------------------------------
+Turno de ODIUM
+ODIUM ataca a Ylluvatar
+Recuerda que tienes 85 de Stamina para consumir.
+Selecciona un dado para atacar:
+1- Dado 6 caras - 0 Stamina
+2- Dado 12 caras - 10 Stamina
+3- Dado 20 caras - 15 Stamina
+4- Dado 30 caras - Ataque Alto (quita mucha Stamina) - 50 Stamina
+------------------------------
+ODIUM atacó a Ylluvatar con un dado de 20 caras, costo de stamina: 15
+------------------------------
+RONDA 4
+------------------------------
+Turno de Ylluvatar
+Ataca Ylluvatar
+Ylluvatar utilizó el dado de 12 caras.
+------------------------------
+RONDA 5
+------------------------------
+Turno de ODIUM
+ODIUM ataca a Ylluvatar
+Recuerda que tienes 70 de Stamina para consumir.
+Selecciona un dado para atacar:
+1- Dado 6 caras - 0 Stamina
+2- Dado 12 caras - 10 Stamina
+3- Dado 20 caras - 15 Stamina
+4- Dado 30 caras - Ataque Alto (quita mucha Stamina) - 50 Stamina
+------------------------------
+ODIUM atacó a Ylluvatar con un dado de 20 caras, costo de stamina: 15
+------------------------------
+RONDA 6
+------------------------------
+Turno de Ylluvatar
+Ataca Ylluvatar
+Ylluvatar utilizó el dado de 6 caras.
+------------------------------
+RONDA 7
+------------------------------
+Turno de ODIUM
+ODIUM ataca a Ylluvatar
+Recuerda que tienes 55 de Stamina para consumir.
+Selecciona un dado para atacar:
+1- Dado 6 caras - 0 Stamina
+2- Dado 12 caras - 10 Stamina
+3- Dado 20 caras - 15 Stamina
+4- Dado 30 caras - Ataque Alto (quita mucha Stamina) - 50 Stamina
+------------------------------
+ODIUM atacó a Ylluvatar con un dado de 20 caras, costo de stamina: 15
+------------------------------
+RONDA 8
+------------------------------
+Turno de Ylluvatar
+Ataca Ylluvatar
+Ylluvatar utilizó el dado de 6 caras.
+------------------------------
+RONDA 9
+------------------------------
+Turno de ODIUM
+ODIUM ataca a Ylluvatar
+Recuerda que tienes 40 de Stamina para consumir.
+Selecciona un dado para atacar:
+1- Dado 6 caras - 0 Stamina
+2- Dado 12 caras - 10 Stamina
+3- Dado 20 caras - 15 Stamina
+4- Dado 30 caras - Ataque Alto (quita mucha Stamina) - 50 Stamina
+------------------------------
+ODIUM atacó a Ylluvatar con un dado de 20 caras, costo de stamina: 15
+¡ODIUM Es el Nuevo Campeon Del Mundo
+Partida jugada el Tue Aug 06 14:46:35 ART 2024
+Iniciando combate...
+Bando elegido: RADIANTES
+Jugador: Shandi (Bando: RADIANTES)
+Enemigo: Caudicus (Bando: TITANES)
+Shandi se encuentra con Caudicus, comienza la batalla!
+------------------------------
+RONDA 1
+------------------------------
+Ataca Caudicus
+Caudicus utilizó el dado de 30 caras.
+------------------------------
+RONDA 2
+------------------------------
+Shandi ataca a Caudicus
+Recuerda que tienes 100 de Stamina para consumir.
+Selecciona un dado para atacar:
+1- Dado 6 caras - 0 Stamina
+2- Dado 12 caras - 10 Stamina
+3- Dado 20 caras - 15 Stamina
+4- Dado 30 caras - Ataque Alto (quita mucha Stamina) - 50 Stamina
+------------------------------
+Shandi atacó a Caudicus con un dado de 20 caras, costo de stamina: 15
+------------------------------
+RONDA 3
+------------------------------
+Ataca Caudicus
+Caudicus utilizó el dado de 12 caras.
+------------------------------
+RONDA 4
+------------------------------
+Shandi ataca a Caudicus
+Recuerda que tienes 85 de Stamina para consumir.
+Selecciona un dado para atacar:
+1- Dado 6 caras - 0 Stamina
+2- Dado 12 caras - 10 Stamina
+3- Dado 20 caras - 15 Stamina
+4- Dado 30 caras - Ataque Alto (quita mucha Stamina) - 50 Stamina
+------------------------------
+Shandi atacó a Caudicus con un dado de 20 caras, costo de stamina: 15
+------------------------------
+RONDA 5
+------------------------------
+Ataca Caudicus
+Caudicus utilizó el dado de 20 caras.
+------------------------------
+RONDA 6
+------------------------------
+Shandi ataca a Caudicus
+Recuerda que tienes 70 de Stamina para consumir.
+Selecciona un dado para atacar:
+1- Dado 6 caras - 0 Stamina
+2- Dado 12 caras - 10 Stamina
+3- Dado 20 caras - 15 Stamina
+4- Dado 30 caras - Ataque Alto (quita mucha Stamina) - 50 Stamina
+------------------------------
+Shandi atacó a Caudicus con un dado de 20 caras, costo de stamina: 15
+------------------------------
+RONDA 7
+------------------------------
+Ataca Caudicus
+Caudicus utilizó el dado de 6 caras.
+------------------------------
+RONDA 8
+------------------------------
+Shandi ataca a Caudicus
+Recuerda que tienes 55 de Stamina para consumir.
+Selecciona un dado para atacar:
+1- Dado 6 caras - 0 Stamina
+2- Dado 12 caras - 10 Stamina
+3- Dado 20 caras - 15 Stamina
+4- Dado 30 caras - Ataque Alto (quita mucha Stamina) - 50 Stamina
+------------------------------
+Shandi atacó a Caudicus con un dado de 20 caras, costo de stamina: 15
+------------------------------
+RONDA 9
+------------------------------
+Ataca Caudicus
+Caudicus utilizó el dado de 6 caras.
+------------------------------
+RONDA 10
+------------------------------
+Shandi ataca a Caudicus
+Recuerda que tienes 40 de Stamina para consumir.
+Selecciona un dado para atacar:
+1- Dado 6 caras - 0 Stamina
+2- Dado 12 caras - 10 Stamina
+3- Dado 20 caras - 15 Stamina
+4- Dado 30 caras - Ataque Alto (quita mucha Stamina) - 50 Stamina
+5- Dado 8 caras - Vida
+6- Dado 8 caras - Stamina
+------------------------------
+Shandi atacó a Caudicus con un dado de 20 caras, costo de stamina: 15
+------------------------------
+RONDA 11
+------------------------------
+Ataca Caudicus
+Caudicus utilizó el dado de 6 caras.
+------------------------------
+RONDA 12
+------------------------------
+Shandi ataca a Caudicus
+Recuerda que tienes 25 de Stamina para consumir.
+Selecciona un dado para atacar:
+1- Dado 6 caras - 0 Stamina
+2- Dado 12 caras - 10 Stamina
+3- Dado 20 caras - 15 Stamina
+4- Dado 30 caras - Ataque Alto (quita mucha Stamina) - 50 Stamina
+5- Dado 8 caras - Vida
+6- Dado 8 caras - Stamina
+------------------------------
+No tienes suficiente stamina para usar ese dado. Elige otro ataque.
+Selecciona un dado para atacar:
+1- Dado 6 caras - 0 Stamina
+2- Dado 12 caras - 10 Stamina
+3- Dado 20 caras - 15 Stamina
+4- Dado 30 caras - Ataque Alto (quita mucha Stamina) - 50 Stamina
+5- Dado 8 caras - Vida
+6- Dado 8 caras - Stamina
+------------------------------
+Shandi atacó a Caudicus con un dado de 20 caras, costo de stamina: 15
+¡Shandi ha ganado!
+Contador de victorias del usuario: 1
+Jugador: Chopper (Bando: RADIANTES)
+Enemigo: Oren Velciter (Bando: TITANES)
+Chopper se encuentra con Oren Velciter, comienza la batalla!
+------------------------------
+RONDA 1
+------------------------------
+Chopper ataca a Oren Velciter
+Recuerda que tienes 100 de Stamina para consumir.
+Selecciona un dado para atacar:
+1- Dado 6 caras - 0 Stamina
+2- Dado 12 caras - 10 Stamina
+3- Dado 20 caras - 15 Stamina
+4- Dado 30 caras - Ataque Alto (quita mucha Stamina) - 50 Stamina
+------------------------------
+Chopper atacó a Oren Velciter con un dado de 6 caras, costo de stamina: 0
+------------------------------
+RONDA 2
+------------------------------
+Ataca Oren Velciter
+Oren Velciter utilizó el dado de 6 caras.
+------------------------------
+RONDA 3
+------------------------------
+Chopper ataca a Oren Velciter
+Recuerda que tienes 100 de Stamina para consumir.
+Selecciona un dado para atacar:
+1- Dado 6 caras - 0 Stamina
+2- Dado 12 caras - 10 Stamina
+3- Dado 20 caras - 15 Stamina
+4- Dado 30 caras - Ataque Alto (quita mucha Stamina) - 50 Stamina
+------------------------------
+Chopper atacó a Oren Velciter con un dado de 6 caras, costo de stamina: 0
+------------------------------
+RONDA 4
+------------------------------
+Ataca Oren Velciter
+Oren Velciter utilizó el dado de 20 caras.
+------------------------------
+RONDA 5
+------------------------------
+Chopper ataca a Oren Velciter
+Recuerda que tienes 100 de Stamina para consumir.
+Selecciona un dado para atacar:
+1- Dado 6 caras - 0 Stamina
+2- Dado 12 caras - 10 Stamina
+3- Dado 20 caras - 15 Stamina
+4- Dado 30 caras - Ataque Alto (quita mucha Stamina) - 50 Stamina
+------------------------------
+Chopper atacó a Oren Velciter con un dado de 6 caras, costo de stamina: 0
+------------------------------
+RONDA 6
+------------------------------
+Ataca Oren Velciter
+Oren Velciter utilizó el dado de 6 caras.
+------------------------------
+RONDA 7
+------------------------------
+Chopper ataca a Oren Velciter
+Recuerda que tienes 100 de Stamina para consumir.
+Selecciona un dado para atacar:
+1- Dado 6 caras - 0 Stamina
+2- Dado 12 caras - 10 Stamina
+3- Dado 20 caras - 15 Stamina
+4- Dado 30 caras - Ataque Alto (quita mucha Stamina) - 50 Stamina
+------------------------------
+Chopper atacó a Oren Velciter con un dado de 20 caras, costo de stamina: 15
+------------------------------
+RONDA 8
+------------------------------
+Ataca Oren Velciter
+Oren Velciter utilizó el dado de 6 caras.
+------------------------------
+RONDA 9
+------------------------------
+Chopper ataca a Oren Velciter
+Recuerda que tienes 85 de Stamina para consumir.
+Selecciona un dado para atacar:
+1- Dado 6 caras - 0 Stamina
+2- Dado 12 caras - 10 Stamina
+3- Dado 20 caras - 15 Stamina
+4- Dado 30 caras - Ataque Alto (quita mucha Stamina) - 50 Stamina
+------------------------------
+Chopper atacó a Oren Velciter con un dado de 30 caras, costo de stamina: 50
+------------------------------
+RONDA 10
+------------------------------
+Ataca Oren Velciter
+Oren Velciter utilizó el dado de 30 caras.
+------------------------------
+RONDA 11
+------------------------------
+Chopper ataca a Oren Velciter
+Recuerda que tienes 35 de Stamina para consumir.
+Selecciona un dado para atacar:
+1- Dado 6 caras - 0 Stamina
+2- Dado 12 caras - 10 Stamina
+3- Dado 20 caras - 15 Stamina
+4- Dado 30 caras - Ataque Alto (quita mucha Stamina) - 50 Stamina
+5- Dado 8 caras - Vida
+6- Dado 8 caras - Stamina
+------------------------------
+No tienes suficiente stamina para usar ese dado. Elige otro ataque.
+Selecciona un dado para atacar:
+1- Dado 6 caras - 0 Stamina
+2- Dado 12 caras - 10 Stamina
+3- Dado 20 caras - 15 Stamina
+4- Dado 30 caras - Ataque Alto (quita mucha Stamina) - 50 Stamina
+5- Dado 8 caras - Vida
+6- Dado 8 caras - Stamina
+------------------------------
+Chopper atacó a Oren Velciter con un dado de 6 caras, costo de stamina: 0
+------------------------------
+RONDA 12
+------------------------------
+Ataca Oren Velciter
+Oren Velciter utilizó el dado de 6 caras.
+¡Oren Velciter ha ganado!
+Contador de victorias del enemigo: 1
+Jugador: Tempi (Bando: RADIANTES)
+Enemigo: Ceniza (Bando: TITANES)
+Tempi se encuentra con Ceniza, comienza la batalla!
+------------------------------
+RONDA 1
+------------------------------
+Ataca Ceniza
+Ceniza utilizó el dado de 12 caras.
+------------------------------
+RONDA 2
+------------------------------
+Tempi ataca a Ceniza
+Recuerda que tienes 100 de Stamina para consumir.
+Selecciona un dado para atacar:
+1- Dado 6 caras - 0 Stamina
+2- Dado 12 caras - 10 Stamina
+3- Dado 20 caras - 15 Stamina
+4- Dado 30 caras - Ataque Alto (quita mucha Stamina) - 50 Stamina
+------------------------------
+Tempi atacó a Ceniza con un dado de 12 caras, costo de stamina: 10
+------------------------------
+RONDA 3
+------------------------------
+Ataca Ceniza
+Ceniza utilizó el dado de 12 caras.
+------------------------------
+RONDA 4
+------------------------------
+Tempi ataca a Ceniza
+Recuerda que tienes 90 de Stamina para consumir.
+Selecciona un dado para atacar:
+1- Dado 6 caras - 0 Stamina
+2- Dado 12 caras - 10 Stamina
+3- Dado 20 caras - 15 Stamina
+4- Dado 30 caras - Ataque Alto (quita mucha Stamina) - 50 Stamina
+------------------------------
+Tempi atacó a Ceniza con un dado de 6 caras, costo de stamina: 0
+------------------------------
+RONDA 5
+------------------------------
+Ataca Ceniza
+Ceniza utilizó el dado de 12 caras.
+------------------------------
+RONDA 6
+------------------------------
+Tempi ataca a Ceniza
+Recuerda que tienes 90 de Stamina para consumir.
+Selecciona un dado para atacar:
+1- Dado 6 caras - 0 Stamina
+2- Dado 12 caras - 10 Stamina
+3- Dado 20 caras - 15 Stamina
+4- Dado 30 caras - Ataque Alto (quita mucha Stamina) - 50 Stamina
+------------------------------
+Tempi atacó a Ceniza con un dado de 20 caras, costo de stamina: 15
+------------------------------
+RONDA 7
+------------------------------
+Ataca Ceniza
+Ceniza utilizó el dado de 20 caras.
+------------------------------
+RONDA 8
+------------------------------
+Tempi ataca a Ceniza
+Recuerda que tienes 75 de Stamina para consumir.
+Selecciona un dado para atacar:
+1- Dado 6 caras - 0 Stamina
+2- Dado 12 caras - 10 Stamina
+3- Dado 20 caras - 15 Stamina
+4- Dado 30 caras - Ataque Alto (quita mucha Stamina) - 50 Stamina
+------------------------------
+Tempi atacó a Ceniza con un dado de 12 caras, costo de stamina: 10
+------------------------------
+RONDA 9
+------------------------------
+Ataca Ceniza
+Ceniza utilizó el dado de 30 caras.
+------------------------------
+RONDA 10
+------------------------------
+Tempi ataca a Ceniza
+Recuerda que tienes 65 de Stamina para consumir.
+Selecciona un dado para atacar:
+1- Dado 6 caras - 0 Stamina
+2- Dado 12 caras - 10 Stamina
+3- Dado 20 caras - 15 Stamina
+4- Dado 30 caras - Ataque Alto (quita mucha Stamina) - 50 Stamina
+5- Dado 8 caras - Vida
+6- Dado 8 caras - Stamina
+------------------------------
+Tempi atacó a Ceniza con un dado de 20 caras, costo de stamina: 15
+------------------------------
+RONDA 11
+------------------------------
+Ataca Ceniza
+Ceniza utilizó el dado de 6 caras.
+¡Ceniza ha ganado!
+Contador de victorias del enemigo: 2
+Has perdido el combate.
+Partida jugada el Tue Aug 06 14:46:58 ART 2024
+Iniciando combate...
+Bando elegido: TITANES
+Jugador: Lanre (Bando: TITANES)
+Enemigo: Chopper (Bando: RADIANTES)
+Lanre se encuentra con Chopper, comienza la batalla!
+------------------------------
+RONDA 1
+------------------------------
+Lanre ataca a Chopper
+Recuerda que tienes 100 de Stamina para consumir.
+Selecciona un dado para atacar:
+1- Dado 6 caras - 0 Stamina
+2- Dado 12 caras - 10 Stamina
+3- Dado 20 caras - 15 Stamina
+4- Dado 30 caras - Ataque Alto (quita mucha Stamina) - 50 Stamina
+------------------------------
+Lanre atacó a Chopper con un dado de 20 caras, costo de stamina: 15
+------------------------------
+RONDA 2
+------------------------------
+Ataca Chopper
+Chopper utilizó el dado de 30 caras.
+------------------------------
+RONDA 3
+------------------------------
+Lanre ataca a Chopper
+Recuerda que tienes 85 de Stamina para consumir.
+Selecciona un dado para atacar:
+1- Dado 6 caras - 0 Stamina
+2- Dado 12 caras - 10 Stamina
+3- Dado 20 caras - 15 Stamina
+4- Dado 30 caras - Ataque Alto (quita mucha Stamina) - 50 Stamina
+------------------------------
+Lanre atacó a Chopper con un dado de 20 caras, costo de stamina: 15
+------------------------------
+RONDA 4
+------------------------------
+Ataca Chopper
+Chopper utilizó el dado de 20 caras.
+------------------------------
+RONDA 5
+------------------------------
+Lanre ataca a Chopper
+Recuerda que tienes 70 de Stamina para consumir.
+Selecciona un dado para atacar:
+1- Dado 6 caras - 0 Stamina
+2- Dado 12 caras - 10 Stamina
+3- Dado 20 caras - 15 Stamina
+4- Dado 30 caras - Ataque Alto (quita mucha Stamina) - 50 Stamina
+------------------------------
+Lanre atacó a Chopper con un dado de 30 caras, costo de stamina: 50
+------------------------------
+RONDA 6
+------------------------------
+Ataca Chopper
+Chopper utilizó el dado de 12 caras.
+------------------------------
+RONDA 7
+------------------------------
+Lanre ataca a Chopper
+Recuerda que tienes 20 de Stamina para consumir.
+Selecciona un dado para atacar:
+1- Dado 6 caras - 0 Stamina
+2- Dado 12 caras - 10 Stamina
+3- Dado 20 caras - 15 Stamina
+4- Dado 30 caras - Ataque Alto (quita mucha Stamina) - 50 Stamina
+5- Dado 8 caras - Vida
+6- Dado 8 caras - Stamina
+------------------------------
+Lanre atacó a Chopper con un dado de 20 caras, costo de stamina: 15
+------------------------------
+RONDA 8
+------------------------------
+Ataca Chopper
+Chopper utilizó el dado de 20 caras.
+------------------------------
+RONDA 9
+------------------------------
+Lanre ataca a Chopper
+Recuerda que tienes 5 de Stamina para consumir.
+Selecciona un dado para atacar:
+1- Dado 6 caras - 0 Stamina
+2- Dado 12 caras - 10 Stamina
+3- Dado 20 caras - 15 Stamina
+4- Dado 30 caras - Ataque Alto (quita mucha Stamina) - 50 Stamina
+5- Dado 8 caras - Vida
+6- Dado 8 caras - Stamina
+------------------------------
+No tienes suficiente stamina para usar ese dado. Elige otro ataque.
+Selecciona un dado para atacar:
+1- Dado 6 caras - 0 Stamina
+2- Dado 12 caras - 10 Stamina
+3- Dado 20 caras - 15 Stamina
+4- Dado 30 caras - Ataque Alto (quita mucha Stamina) - 50 Stamina
+5- Dado 8 caras - Vida
+6- Dado 8 caras - Stamina
+------------------------------
+Partida jugada el Tue Aug 06 15:15:15 ART 2024
+Iniciando combate...
+Bando elegido: RADIANTES
+Jugador: Zoro (Bando: RADIANTES)
+Enemigo: Ceniza (Bando: TITANES)
+Zoro se encuentra con Ceniza, comienza la batalla!
+------------------------------
+RONDA 1
+------------------------------
+Ataca Ceniza
+Ceniza utilizó el dado de 20 caras.
+------------------------------
+RONDA 2
+------------------------------
+Zoro ataca a Ceniza
+Recuerda que tienes 100 de Stamina para consumir.
+Selecciona un dado para atacar:
+1- Dado 6 caras - 0 Stamina
+2- Dado 12 caras - 10 Stamina
+3- Dado 20 caras - 15 Stamina
+4- Dado 30 caras - Ataque Alto (quita mucha Stamina) - 50 Stamina
+------------------------------
+Zoro atacó a Ceniza con un dado de 12 caras, costo de stamina: 10
+------------------------------
+RONDA 3
+------------------------------
+Ataca Ceniza
+Ceniza utilizó el dado de 30 caras.
+------------------------------
+RONDA 4
+------------------------------
+Zoro ataca a Ceniza
+Recuerda que tienes 90 de Stamina para consumir.
+Selecciona un dado para atacar:
+1- Dado 6 caras - 0 Stamina
+2- Dado 12 caras - 10 Stamina
+3- Dado 20 caras - 15 Stamina
+4- Dado 30 caras - Ataque Alto (quita mucha Stamina) - 50 Stamina
+------------------------------
+Zoro atacó a Ceniza con un dado de 20 caras, costo de stamina: 15
+------------------------------
+RONDA 5
+------------------------------
+Ataca Ceniza
+Ceniza utilizó el dado de 20 caras.
+------------------------------
+RONDA 6
+------------------------------
+Zoro ataca a Ceniza
+Recuerda que tienes 75 de Stamina para consumir.
+Selecciona un dado para atacar:
+1- Dado 6 caras - 0 Stamina
+2- Dado 12 caras - 10 Stamina
+3- Dado 20 caras - 15 Stamina
+4- Dado 30 caras - Ataque Alto (quita mucha Stamina) - 50 Stamina
+5- Dado 8 caras - Vida
+6- Dado 8 caras - Stamina
+------------------------------
+Zoro atacó a Ceniza con un dado de 12 caras, costo de stamina: 10
+------------------------------
+RONDA 7
+------------------------------
+Ataca Ceniza
+Ceniza utilizó el dado de 20 caras.
+------------------------------
+RONDA 8
+------------------------------
+Zoro ataca a Ceniza
+Recuerda que tienes 65 de Stamina para consumir.
+Selecciona un dado para atacar:
+1- Dado 6 caras - 0 Stamina
+2- Dado 12 caras - 10 Stamina
+3- Dado 20 caras - 15 Stamina
+4- Dado 30 caras - Ataque Alto (quita mucha Stamina) - 50 Stamina
+5- Dado 8 caras - Vida
+6- Dado 8 caras - Stamina
+------------------------------
+Zoro atacó a Ceniza con un dado de 20 caras, costo de stamina: 15
+------------------------------
+RONDA 9
+------------------------------
+Ataca Ceniza
+Ceniza utilizó el dado de 6 caras.
+¡Ceniza ha ganado!
+Contador de victorias del enemigo: 1
+Jugador: Shanks (Bando: RADIANTES)
+Enemigo: Lanre (Bando: TITANES)
+Shanks se encuentra con Lanre, comienza la batalla!
+------------------------------
+RONDA 1
+------------------------------
+Shanks ataca a Lanre
+Recuerda que tienes 100 de Stamina para consumir.
+Selecciona un dado para atacar:
+1- Dado 6 caras - 0 Stamina
+2- Dado 12 caras - 10 Stamina
+3- Dado 20 caras - 15 Stamina
+4- Dado 30 caras - Ataque Alto (quita mucha Stamina) - 50 Stamina
+------------------------------
+Shanks atacó a Lanre con un dado de 6 caras, costo de stamina: 0
+------------------------------
+RONDA 2
+------------------------------
+Ataca Lanre
+Lanre utilizó el dado de 20 caras.
+------------------------------
+RONDA 3
+------------------------------
+Shanks ataca a Lanre
+Recuerda que tienes 100 de Stamina para consumir.
+Selecciona un dado para atacar:
+1- Dado 6 caras - 0 Stamina
+2- Dado 12 caras - 10 Stamina
+3- Dado 20 caras - 15 Stamina
+4- Dado 30 caras - Ataque Alto (quita mucha Stamina) - 50 Stamina
+------------------------------
