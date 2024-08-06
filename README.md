@@ -1,0 +1,19 @@
+El juego es muy sencillo
+Comenzamos eligiendo un bando, Radiantes o Titanes
+Luego al azar nos elige 3 personajes para combatir
+
+El combate es al mejor de 3, si se gana 2 de 3 combates pasas al Combate con el jefe final
+El combate final es siempre entre los final Bosses Ylluvatar por parte de los Radiantes y ODIUM por parte de los Titanes
+
+para hacer un poco mas dinamico el juego hay opciones de Dados
+4 dados que realizan ataques y requieren stamina para utilizarlos, excepto el dado de 6 caras
+
+Cuando el usuario tiene menos del 40% de vida o de stamina, aparecen dos opciones de dados nuevos de 8 caras
+que te regeneran vida o stamina
+
+la suma de los dados es el daño provado al rival, pero tambien hay que tener en cuenta las estadisticas de , Armadura, fuerza, nivel, etc
+se hace una comparacion y dependiendo en cuantas estadisticas se supere al rival esto va a sumar puntos en el daño generado
+
+Ejemplo 
+saco dos dados y genero 6 de daño
+pero si mi personaje supera en 3 estadisticas al personaje rival el daño total sera 9
